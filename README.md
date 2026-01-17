@@ -6,3 +6,6 @@
 هذا المشروع مستلهم ومبني على مشروع
 1- [Sudur](https://github.com/yaqiin/sudur).
 2- [The Quran Heart](https://github.com/maro-medhat/The-Quran-Heart).
+
+## الموقع المنشور
+[Sunnah Heart](https://sunnah-heart.netlify.app/)
